@@ -109,7 +109,7 @@ Thanks to the creators of the [BikeStores database](https://www.sqlservertutoria
 ## 📬 Contact
 
 For questions or collaboration opportunities:
-**Karan**  
+**Karan Narula**  
 📧 karannarula370@gmail.com   
 📍 [LinkedIn Profile]https://www.linkedin.com/in/karan-narula-a077681b9
 
