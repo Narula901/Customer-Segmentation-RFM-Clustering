@@ -91,3 +91,26 @@ After joining these tables, we built a transactional dataset with the following 
   - Upselling to frequent buyers
 
 ---
+## 🔮 Future Enhancements
+
+- Add customer demographic and regional data
+- Use other clustering algorithms (e.g., Agglomerative Clustering)
+- Schedule automated RFM updates with Airflow/SSIS
+- Deploy interactive dashboards in Power BI or Streamlit
+
+---
+
+## 🙌 Acknowledgments
+
+Thanks to the creators of the [BikeStores database](https://www.sqlservertutorial.net/sql-server-sample-database/) for the data and to the open-source community for the tools used in this project.
+
+---
+
+## 📬 Contact
+
+For questions or collaboration opportunities:
+**Karan**  
+📧 karannarula370@gmail.com   
+📍 [LinkedIn Profile]https://www.linkedin.com/in/karan-narula-a077681b9
+
+
