@@ -75,3 +75,19 @@ After joining these tables, we built a transactional dataset with the following 
 - Visualizations included to compare cluster structures for both methods.
 
 ---
+
+
+## 📌 Results & Insights
+
+- Identified **4 customer segments**:
+  1. **High-Value Loyal Customers**
+  2. **Recent Low Spenders**
+  3. **Dormant or Inactive Users**
+  4. **Frequent Moderate Spenders**
+
+- These insights can support:
+  - Loyalty programs for top customers
+  - Re-engagement campaigns for dormant users
+  - Upselling to frequent buyers
+
+---
