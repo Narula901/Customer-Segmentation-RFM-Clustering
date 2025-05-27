@@ -1,3 +1,6 @@
+![Customer Segmentation](https://github.com/user-attachments/assets/24e5b9cb-dc1a-425a-864b-0948ee7a3301)
+
+
 # 🛒 Customer Segmentation using RFM and Clustering (KMeans & DBSCAN)
 
 
